@@ -374,6 +374,7 @@ nav.navbar.scroll-change .header-icon span i {
 	min-height: 99%;
 	height: 99vh;
 	position: relative;
+	padding:10px 0;
 }
 
 .header-content {
@@ -381,7 +382,8 @@ nav.navbar.scroll-change .header-icon span i {
 	top: 50%;
 	-webkit-transform: translateY(-50%);
 	        transform: translateY(-50%);
-	margin-left: 2%
+	margin-left: 2%;
+	padding:25px 0;
 }
 
 .header-content h2 {
