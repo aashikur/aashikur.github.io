@@ -299,7 +299,7 @@ header .nav-menu:after {
 	width: 100%;
 	position: absolute;
 	height: 1px;
-	background: #4a4a4a;
+/* 	background: #4a4a4a; */
 	background: #ffffff0a;
 	bottom: 0;
 	-webkit-transform: scaleX(.85);
